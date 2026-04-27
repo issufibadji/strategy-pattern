@@ -1,7 +1,6 @@
 # Strategy Pattern
 
-[![Youtube](https://img.shields.io/static/v1?label=Youtube&message=@issufibadji&color=8257E5&labelColor=000000)](https://youtube.com/@issufibadji)
-![Tipo](https://img.shields.io/static/v1?label=Tipo&message=Aula&color=8257E5&labelColor=000000)
+[![Github](https://img.shields.io/static/v1?label=github&message=@issufibadji&color=8257E5&labelColor=000000)](https://github.com/@issufibadji)
 ![Linguagem](https://img.shields.io/static/v1?label=Linguagem&message=Java&color=8257E5&labelColor=000000)
 
 Aprenda na prática como usar o padrão de projeto **Strategy** implementando um sistema de pagamentos. O projeto mostra três abordagens progressivas: sem padrão, com Strategy clássico e com Strategy moderno (usando enum + method reference).
