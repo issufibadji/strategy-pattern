@@ -46,7 +46,7 @@ Usa um `enum PaymentType` onde cada constante carrega um `Consumer<Double>` apon
 Clone o repositório e execute o arquivo desejado:
 
 ```bash
-git clone https://github.com/giuliana-bezerra/strategy-pattern.git
+git clone https://github.com/issufibadji/strategy-pattern.git
 cd strategy-pattern
 
 # Sem padrão
